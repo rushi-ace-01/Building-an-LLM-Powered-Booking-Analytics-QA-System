@@ -73,7 +73,7 @@ Evaluates Q&A accuracy and API performance.
 ## Implementation Choices & Challenges
 - Used FastAPI for fast and asynchronous API handling.
 - FAISS and SciPy used for efficient vector search.
-- Llama 2 chosen for Q&A system due to its lightweight yet powerful performance.
+- Mistral-7B chosen for Q&A system due to its lightweight yet powerful performance.
 - Docker containerization for easy deployment.
 
 ## Contribution
