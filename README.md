@@ -76,9 +76,3 @@ Evaluates Q&A accuracy and API performance.
 - Mistral-7B chosen for Q&A system due to its lightweight yet powerful performance.
 - Docker containerization for easy deployment.
 
-## Contribution
-Feel free to fork the repo and submit pull requests!
-
-## License
-MIT License
-
